@@ -7,7 +7,7 @@ var parola2=prompt('inserisci un altra parola');
 
 if (parola1.length>parola2.length) {
   console.log('la parola piu lunga è' parola1);
-  else if (parola2.leng>parola1) {
+  else if (parola2.length>parola1) {
     console.log('la parola piu lunga è'parola2);
   }
   else{
